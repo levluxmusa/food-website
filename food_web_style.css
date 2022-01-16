@@ -48,6 +48,21 @@ html, body{
 .item1{
     flex-grow: 3;
     font-size: 30px;
+    margin-top: 15px;
+    margin-bottom: 0px;
+    margin-left: 15px;
+}
+
+.item2{
+    margin-top: 15px;
+    margin-bottom: 0px;
+    margin-left: 5px;
+}
+
+.item3{
+    margin-top: 15px;
+    margin-bottom: 0px;
+    margin-left: 5px;
 }
 
 .container1{
