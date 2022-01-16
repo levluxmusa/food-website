@@ -24,7 +24,7 @@ html, body{
 .image-contain {
     object-fit: cover;
     object-position: center;
-    width: 290px;
+    width: 298px;
     height: 230px;
     border-radius: 10px;
   }
